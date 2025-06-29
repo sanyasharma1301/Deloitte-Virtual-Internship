@@ -16,8 +16,8 @@ The internship focused on detecting fraud through data classification and dashbo
 - Drawing business insights from raw data
 
 ### Screenshot
-
-
+Here’s a preview of the dashboard I created using Tableau:
+![Dashboard Preview](tableau-dashboard.png)
 ---
 
 👩‍💻 Created by: [Sanya Sharma](https://www.linkedin.com/in/sanya-sharma-74a7a3330/)
