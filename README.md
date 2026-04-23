@@ -1,23 +1,37 @@
+# Deloitte Data Analytics Virtual Internship
 
-# Deloitte Data Analytics Virtual Internship (Forage)
+This project is based on the Deloitte Data Analytics Virtual Job Simulation on Forage, where I worked on real-world business data problems.
 
-This project was created as part of Deloitte Australia's Data Analytics Virtual Internship hosted on Forage.
+## Tasks Performed
+- Data cleaning and preprocessing using Excel
+- Data classification and analysis
+- Identifying patterns and deriving business insights
+- Creating interactive dashboards using Tableau
 
-## Project Overview
-The internship focused on detecting fraud through data classification and dashboard creation.
+## Tools Used
+- Microsoft Excel
+- Tableau
 
-###  Tools Used
-- Tableau (for dashboard creation)
-- Excel (for classifying and cleaning data)
+## Key Outcomes
+- Analyzed datasets to identify trends and anomalies
+- Created visual dashboards to present insights clearly
+- Developed understanding of data-driven decision making
 
-###  Key Learnings
-- How to identify red flags in business transactions
-- Visualizing trends using Tableau
-- Drawing business insights from raw data
+## Files Included
+- Excel datasets and analysis
+- Tableau dashboard 
+- Supporting documents
+
+## About the Program
+This simulation helped me understand how data analytics is used in real business scenarios, including problem-solving and decision-making.
+
+---
+
+This project reflects my interest in data analytics and applying analytical thinking to real-world problems.
 
 ### Screenshot
 Here’s a preview of the dashboard I created using Tableau:
 ![Dashboard Preview](tableau-dashboard.png)
 ---
 
-👩‍💻 Created by: [Sanya Sharma](https://www.linkedin.com/in/sanya-sharma-74a7a3330/)
+Created by: [Sanya Sharma](https://www.linkedin.com/in/sanya-sharma-74a7a3330/)
