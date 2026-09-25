@@ -34,4 +34,8 @@ Here’s a preview of the dashboard I created using Tableau:
 ![Dashboard Preview](tableau-dashboard.png)
 ---
 
+### Certificate
+![DelloiteCertificate-Forage](DataAnalyticsDelloite.pdf)
+---
+
 Created by: [Sanya Sharma](https://www.linkedin.com/in/sanya-sharma-74a7a3330/)
